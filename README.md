@@ -4,7 +4,7 @@
 
 - Implement a Flask application to query the database
 
----
+--
 
 ## Introduction
 
